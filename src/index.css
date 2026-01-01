@@ -1,0 +1,11 @@
+@import "tailwindcss";
+:root{
+   --toastify-icon-color-success: #a684ff;
+  --toastify-color-progress-success:#a684ff ;
+}
+*{
+  font-family: sans-serif;
+}
+.util::-webkit-scrollbar {
+  display: none;
+}
